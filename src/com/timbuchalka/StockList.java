@@ -74,6 +74,10 @@ public class StockList {
     public StockItem get(String key) {
         return list.get(key);
     }
+    
+    public void abc(){
+    	
+    }
 
     public Map<String, Double> PriceList() {
         Map<String, Double> prices = new LinkedHashMap<>();
