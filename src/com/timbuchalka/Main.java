@@ -14,6 +14,8 @@ import java.util.Map;
  */
 public class Main {
     private static StockList stockList = new StockList();
+    
+    //sample commit
 
     public static void main(String[] args) {
 	    StockItem temp = new StockItem("bread", 0.86, 100);
